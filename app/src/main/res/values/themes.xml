@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SimpleCalculator" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- This changes the default color of ALL Material3 buttons -->
+        <item name="colorPrimary">#FF5722</item>
+
+        <!-- This changes the text/icon color on those buttons -->
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.SimpleCalculator" parent="Base.Theme.SimpleCalculator" />
+</resources>

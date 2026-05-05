@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SimpleCalculator" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <!-- This changes the default color of ALL Material3 buttons -->
+        <item name="colorPrimary">#FF5722</item>
+
+        <!-- This changes the text/icon color on those buttons -->
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+
+    </style>
+</resources>
